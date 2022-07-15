@@ -1,3 +1,6 @@
 ﻿using LogicalProblems;
 
-FibonacciSeries.fibonacciSeries();
+//FibonacciSeries.fibonacciSeries();
+//PerfectNumber.perfectNumber();
+PrimeNumbers.primeNumbers();
+//ReverseNumbers.reverseNumber();
